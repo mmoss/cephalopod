@@ -1,0 +1,9 @@
+{
+  "name": "cephalopod",
+  "version": "1.0.0",
+  "description": "WebGL Game Library",
+  "main": "index.js",
+  "repository": "https://github.com/mmoss/cephalopod.git",
+  "author": "Murray M. Moss",
+  "license": "MIT"
+}
